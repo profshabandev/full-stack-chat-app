@@ -1,3 +1,4 @@
+<li>
 <ul>
 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 🎃 Authentication && Authorization with JWT
@@ -8,3 +9,4 @@
 ⭐ At the end Deployment like a pro for FREE!
 ⏳ And much more!
 </ul>
+</li>
